@@ -25,8 +25,8 @@ const Footer = () => {
             <div class="footer-col">
                 <h4>Adddress</h4>
                 <ul>
-                    <li><a href="#"><i class="fab fa-facebook"></i>  15 Feet Rd Yavat, Station Road, Sahkar Nagar, Yawat Station, Maharashtra 412214</a></li>
-                    <li><a href="#"><i class="fa fa-phone"></i>   Contact : 8308750978,   9665781111</a></li>
+                    <li><a href="#"><i class="fa fa-address-card"></i> Yawat Station Road Corner, Siddheshwar Complex, Shop.No 11 ,412214</a></li>
+                    <li><a href="#"><i class="fa fa-phone"></i>   Contact : 9595445673,   9665781111</a></li>
                     <li><a href="#"><i class="fa fa-envelope"></i>   Email : hashtag72@gmail.com</a></li>
                 </ul>
             </div>
