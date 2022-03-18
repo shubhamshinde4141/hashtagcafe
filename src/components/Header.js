@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 const Header = () => {
   return (
-    <div className="banner">
+    <div className="banner" id="homepage">
       <Navbar />
       <div className="banner__content">
         <div className="container">
@@ -12,7 +12,7 @@ const Header = () => {
             Cake and Coffee shop for foddies with Exceptional Taste, Exceptional Price
             </p>
             <div className="banner__btn">
-              <a href="" className="btn btn-smart">
+              <a href="#menu-items" className="btn btn-smart">
                 See Menu
               </a>
             </div>

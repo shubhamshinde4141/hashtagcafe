@@ -2,13 +2,13 @@ import React from "react";
 
 const Prices = () => {
   return (
-    <div className="prices">
+    <div className="prices" id="menu-items">
       <div className="container">
         <div className="row">
           <div className="col-4">
             <div className="price">
               <div className="price__img">
-                <img src="/img/pizza1.png" alt="pizza" />
+                <img src="/img/3.png" alt="pizza" />
               </div>
               <h1 className="price__heading">Birthday Cakes</h1>
               <p className="price__text">
@@ -23,7 +23,7 @@ const Prices = () => {
           <div className="col-4">
             <div className="price">
               <div className="price__img">
-                <img src="/img/pizza2.png" alt="pizza" />
+                <img src="/img/2.png" alt="pizza" />
               </div>
               <h1 className="price__heading">Beverages</h1>
               <p className="price__text">
@@ -45,14 +45,14 @@ const Prices = () => {
               We also have home delivery pizza service.
               You should definitely try once !!
               </p>
-              <p className="price_rs">$150.00</p>
+              {/* <p className="price_rs">$150.00</p> */}
             </div>
           </div>
 
           <div className="col-4">
             <div className="price">
               <div className="price__img">
-                <img src="/img/pizza4.png" alt="pizza" />
+                <img src="/img/4.png" alt="pizza" />
               </div>
               <h1 className="price__heading">Burgers</h1>
               <p className="price__text">
@@ -67,7 +67,7 @@ const Prices = () => {
           <div className="col-4">
             <div className="price">
               <div className="price__img">
-                <img src="/img/pizza5.png" alt="pizza" />
+                <img src="/img/5.png" alt="pizza" />
               </div>
               <h1 className="price__heading">Cold Coffee</h1>
               <p className="price__text">
@@ -81,7 +81,7 @@ const Prices = () => {
           <div className="col-4">
             <div className="price">
               <div className="price__img">
-                <img src="/img/pizza6.png" alt="pizza" />
+                <img src="/img/6.png" alt="pizza" />
               </div>
               <h1 className="price__heading">Fast Food and Sandwitches</h1>
               <p className="price__text">

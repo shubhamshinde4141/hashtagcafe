@@ -17,7 +17,7 @@ const About = () => {
             We have Fast
             </p>
             <div className="about__btn">
-              <a href="" className="btn btn-smart">
+              <a href="#contact" className="btn btn-smart">
                 Contact Now
               </a>
             </div>
